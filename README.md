@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shifakamali
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in Java Developer Role
+- 🌱 I have completed java full stack development course 
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me https://www.linkedin.com/in/shifa-kamali-0818711b3
 
 <!---
